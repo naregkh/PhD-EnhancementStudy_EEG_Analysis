@@ -1,6 +1,7 @@
 # PhD Enhancement Study EEG Analysis
 
-Codes here were used for preprocessing and analysis of the EEG data collected during my last PhD project. 
+Codes here were used for preprocessing and analysis of the EEG data collected during my last PhD project. The recognition task during which this data was collected is stored [here](https://github.com/naregkh/PhD-EnhancementStudy_ExperimentScript.git).
+
 
 ### Initialise.m 
 Sets up the EEGlab and my own tools in the path and startes EEGlab. It also tells EEGlab to use double precision.
@@ -47,8 +48,3 @@ For when there is no prediction about the time and frequency of the effect. Clus
 
 ### Script_Stage4_TF_Predifined_TimeFreqWindow
 For when there is a prediction about the time and frequency of the effect. 
-
-The recognition task during which this data was collected is stored [here](https://github.com/naregkh/PhD-EnhancementStudy_ExperimentScript.git).
-
-
-
