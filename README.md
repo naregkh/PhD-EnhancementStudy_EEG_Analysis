@@ -1,10 +1,10 @@
 # PhD Enhancement Study EEG Analysis
 
-Codes here were used for preprocessing and analysis of the EEG data collected during my last PhD project. The recognition task during which this data was collected is stored [here](https://github.com/naregkh/PhD-EnhancementStudy_ExperimentScript.git).
+Codes here were used for preprocessing and analysis of the EEG data collected during my last PhD project. The recognition task during which this data was collected is stored [here](https://github.com/naregkh/PhD-EnhancementStudy_ExperimentScript.git). 
 
 
 ### Initialise.m 
-Sets up the EEGlab and my own tools in the path and startes EEGlab. It also tells EEGlab to use double precision.
+Sets up the EEGlab and my own [tools](https://github.com/naregkh/PhD-EnhancementStudy_EEG_Analysis_tools) in the path and startes EEGlab. It also tells EEGlab to use double precision.
 
 ## Preprocessing
 
